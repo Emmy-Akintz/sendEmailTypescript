@@ -1,0 +1,17 @@
+{
+  "name": "sendemailtypescript",
+  "version": "1.0.0",
+  "description": "A typescript code to send email as many times as you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nodemailer": "^6.4.14",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.10"
+  }
+}
