@@ -33,6 +33,12 @@
 
 ## Usage
 
+ Create a `.env` file and store your details such as `MYEMAIL`, `MYPASS`, `email`, `subject` and `html`
+
+ OR
+
+ Replace the `process.env.value` with values of your choice directly
+
  Run the script with:
  `ts-node sendEmail.ts`
 
@@ -52,4 +58,4 @@ Contributions are welcome. Please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
