@@ -26,7 +26,7 @@
  `MYEMAIL=your-email@gmail.com`
  `MYPASS=your-password`
 3. Add the email addresses you want to send emails to, separated by commas:
- `email2=recipient1@example.com,recipient2@example.com`
+ `email=recipient1@example.com, recipient2@example.com`
 4. Optionally, set the email subject and HTML content:
  `subject=Hello from Nodemailer`
  `html=<p>This is a test email sent from Nodemailer.</p>`
